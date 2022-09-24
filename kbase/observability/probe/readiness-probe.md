@@ -1,4 +1,4 @@
-# Readiness Probes
+# Readiness Probe
 ---
 A pod has
 - Pod Status
