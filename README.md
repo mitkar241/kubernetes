@@ -2,6 +2,8 @@
 ---
 Production-Grade Container Scheduling and Management
 
+<img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png" alt="kubernetes-logo" width="200" height="200" />
+
 ## Repo Structure
 ---
 ```
