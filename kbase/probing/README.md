@@ -1,4 +1,4 @@
-# Probes
+# Probing
 ---
 
 - [Readiness Probe](./readiness-probe.md)
