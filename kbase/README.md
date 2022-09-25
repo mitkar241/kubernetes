@@ -15,6 +15,7 @@
 ---
 - [ ] [Kubernetes Tutorial - tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.htm)
 - [ ] [kubernetes-up-and-running/examples - github](https://github.com/kubernetes-up-and-running/examples)
-- [ ] [ahmetb/kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
-- [ ] [ContainerSolutions/k8s-deployment-strategies](https://github.com/ContainerSolutions/k8s-deployment-strategies)
-- [ ] [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [ ] [ahmetb/kubernetes-network-policy-recipes - github](https://github.com/ahmetb/kubernetes-network-policy-recipes)
+- [ ] [mmumshad/kubernetes-the-hard-way - github](https://github.com/mmumshad/kubernetes-the-hard-way)
+- [ ] [ContainerSolutions/k8s-deployment-strategies - github](https://github.com/ContainerSolutions/k8s-deployment-strategies)
+- [ ] [kelseyhightower/kubernetes-the-hard-way - github](https://github.com/kelseyhightower/kubernetes-the-hard-way)
