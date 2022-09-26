@@ -8,37 +8,42 @@ Production-Grade Container Scheduling and Management
 ---
 ```
 .
-├── deployment-cloud
-│   ├── aks
-│   ├── eks
-│   └── gke
-├── deployment-local
-│   ├── kubeadm
-│   │   └── kubeadm-setup.sh
-│   └── minikube
-├── materials
+├── kbase
+│   ├── configuration
+│   ├── core-concepts
 │   ├── docs
-│   │   ├── architecture.md
-│   │   ├── concept.md
-│   │   ├── introduction.md
-│   │   ├── monitoring.md
-│   │   ├── networking.md
-│   │   └── security.md
+│   ├── interview
+│   │   ├── core-concepts.md
+│   │   ├── multi-container-pods.md
+│   │   ├── pod-design.md
+│   ├── logging
+│   ├── monitoring
+│   ├── multi-container-pod
+│   ├── networking
+│   ├── pod-design
+│   ├── probing
+│   ├── service
+│   ├── state-persistence
 │   └── syllabus
-│       ├── k8s-up-and-running.md
-│       └── matthewpalmer.md
+├── README.md
+├── server.json
+├── setup
+│   ├── cloud
+│   │   ├── aks
+│   │   ├── eks
+│   │   └── gke
+│   ├── local
+│   │   ├── kubeadm
+│   │   └── minikube
 ├── snippets
 │   ├── basics
-│   │   ├── pod-definition.yaml
-│   │   ├── rc-definition.yaml
-│   │   └── rs-definition.yaml
 │   ├── deployment
-│   │   └── deploy-definition.yaml
+│   ├── pod
 │   └── services
-│       └── nodeport.yaml
 └── tools
     ├── argocd
-    └── helm
+    ├── helm
+    └── rancher
 ```
 
 
