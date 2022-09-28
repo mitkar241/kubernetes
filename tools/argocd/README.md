@@ -9,3 +9,5 @@ Declarative continuous deployment for Kubernetes
 ---
 - [ ] [github/argo-cd](https://github.com/argoproj/argo-cd)
 - [ ] [argo-cd.readthedocs.io](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] [Git Generator - argocd-applicationset](https://argocd-applicationset.readthedocs.io/en/stable/Generators-Git/)
+- [ ] [Git Generator - argo-cd](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Git/)
