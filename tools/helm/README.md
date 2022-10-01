@@ -10,3 +10,4 @@ The Kubernetes Package Manager
 - [ ] [github/helm](https://github.com/helm/helm)
 - [ ] [artifacthub.io](https://artifacthub.io/)
 - [ ] [Overriding Helm chart values - genesys](https://all.docs.genesys.com/PrivateEdition/Current/PEGuide/HelmOverrides)
+- [ ] [Installing Helm - helm](https://helm.sh/docs/intro/install/)
