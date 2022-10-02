@@ -13,6 +13,17 @@
 
 ### Resources
 ---
+### Documentation
+---
+- [ ] [Pods](https://kubernetes.io/docs/concepts/workloads/pods/)
+- [ ] [ReplicationController](https://kubernetes.io/docs/concepts/workloads/controllers/replicationcontroller/)
+- [ ] [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+- [ ] [Namespaces](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/)
+- [ ] [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+- [ ] [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
+
+### Others
+---
 - [ ] [Kubernetes Tutorial - tutorialspoint](https://www.tutorialspoint.com/kubernetes/index.htm)
 - [ ] [kubernetes-up-and-running/examples - github](https://github.com/kubernetes-up-and-running/examples)
 - [ ] [ahmetb/kubernetes-network-policy-recipes - github](https://github.com/ahmetb/kubernetes-network-policy-recipes)

@@ -8,14 +8,11 @@ Production-Grade Container Scheduling and Management
 ---
 ```
 .
-├── kbase
+├── docs
 │   ├── configuration
 │   ├── core-concepts
 │   ├── docs
 │   ├── interview
-│   │   ├── core-concepts.md
-│   │   ├── multi-container-pods.md
-│   │   ├── pod-design.md
 │   ├── logging
 │   ├── monitoring
 │   ├── multi-container-pod
@@ -35,15 +32,12 @@ Production-Grade Container Scheduling and Management
 │   ├── local
 │   │   ├── kubeadm
 │   │   └── minikube
+│   └── README.md
 ├── snippets
-│   ├── basics
-│   ├── deployment
-│   ├── pod
-│   └── services
+│   ├── definition
+│   └── pod
 └── tools
     ├── argocd
     ├── helm
     └── rancher
 ```
-
-

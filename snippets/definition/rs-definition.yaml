@@ -1,11 +1,15 @@
 apiVersion: apps/v1
-kind: Deployment
+kind: ReplicaSet
 metadata:
-  name: nginx-deploy
+  name: nginx-rs
   labels:
     app: nginx-app
     type: frontend-task
 spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      type: frontend-task
   template:
     metadata:
       name: nginx-pod
@@ -14,9 +18,7 @@ spec:
         type: frontend-task
     spec:
       containers:
-        - name: nginx-container
-          image: nginx
-  replicas: 3
-  selector:
-    matchLabels:
-      app: nginx-app
+      - name: nginx-container
+        image: nginx:1.14.2
+        ports:
+        - containerPort: 80

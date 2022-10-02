@@ -6,6 +6,10 @@ metadata:
     app: nginx-app
     type: frontend-task
 spec:
+  replicas: 3
+  # optional
+  selector:
+    type: frontend-task
   template:
     metadata:
       name: nginx-pod
@@ -14,6 +18,7 @@ spec:
         type: frontend-task
     spec:
       containers:
-        - name: nginx-container
-          image: nginx
-  replicas: 3
+      - name: nginx-container
+        image: nginx:1.14.2
+        ports:
+        - containerPort: 80
