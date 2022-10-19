@@ -1,0 +1,27 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: guestbook-argo-app
+  namespace: argocd
+spec:
+  project: default
+
+  # Source of the application manifests
+  source:
+    repoURL: https://github.com/argoproj/argocd-example-apps.git  # Can point to either a Helm chart repo or a git repo.
+    targetRevision: HEAD  # For Helm, this refers to the chart version.
+    path: guestbook  # This has no meaning for Helm charts pulled directly from a Helm repo instead of git.
+
+  # Destination cluster and namespace to deploy the application
+  destination:
+    server: https://kubernetes.default.svc
+    # The namespace will only be set for namespace-scoped resources that have not set a value for .metadata.namespace
+    namespace: guestbook
+
+  syncPolicy:
+    syncOptions:
+    - CreateNamespace=true
+
+    automated:
+      selfHeal: true
+      prune: true
