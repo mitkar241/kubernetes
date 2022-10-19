@@ -9,9 +9,17 @@ Declarative continuous deployment for Kubernetes
 ---
 - [ ] [github - argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 - [ ] [argo-cd.readthedocs.io](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] [youtube - TechWorld with Nana - ArgoCD Tutorial for Beginners](https://www.youtube.com/watch?v=MeU5_k9ssrs)
 - [ ] [argocd-applicationset - Git Generator](https://argocd-applicationset.readthedocs.io/en/stable/Generators-Git/)
 - [ ] [argo-cd - Git Generator](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Git/)
 - [ ] [argo-cd - Helm](https://argo-cd.readthedocs.io/en/stable/user-guide/helm/)
+- [ ] [omegion - How to install ArgoCD on Kubernetes cluster](https://omegion.dev/2021/06/how-to-install-argocd-on-kubernetes-cluster/)
+- [ ] [github - omegion/echo-k8s-app](https://github.com/omegion/echo-k8s-app)
+- [ ] [argo-cd - Best Practices](https://argo-cd.readthedocs.io/en/stable/user-guide/best_practices/)
+- [ ] [github - stevesea/argocd-helm-app-of-apps-example](https://github.com/stevesea/argocd-helm-app-of-apps-example)
+- [ ] [opensource - Automatically create multiple applications in Argo CD](https://opensource.com/article/21/7/automating-argo-cd)
+- [ ] [suedbroecker - How to deploy an application with argo cd using a helm repository](https://suedbroecker.net/2022/07/22/how-to-deploy-an-application-with-argo-cd-using-a-helm-repository/)
+- [ ] [stackoverflow - Templates and Values in different repos via ArgoCD](https://stackoverflow.com/questions/73023423/templates-and-values-in-different-repos-via-argocd)
 
 ## Description
 ---
