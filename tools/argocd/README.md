@@ -15,6 +15,7 @@ Declarative continuous deployment for Kubernetes
 - [ ] [argo-cd - Git Generator](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Git/)
 - [ ] [argo-cd - Helm](https://argo-cd.readthedocs.io/en/stable/user-guide/helm/)
 - [ ] [omegion - How to install ArgoCD on Kubernetes cluster](https://omegion.dev/2021/06/how-to-install-argocd-on-kubernetes-cluster/)
+- [ ] [medium - Level Up Your Argo CD Game with ApplicationSet](https://itnext.io/level-up-your-argo-cd-game-with-applicationset-ccd874977c4c)
 - [ ] [github - xsreality/argocd-applicationset-demo](https://github.com/xsreality/argocd-applicationset-demo)
 - [ ] [github - omegion/echo-k8s-app](https://github.com/omegion/echo-k8s-app)
 - [ ] [argo-cd - Best Practices](https://argo-cd.readthedocs.io/en/stable/user-guide/best_practices/)
