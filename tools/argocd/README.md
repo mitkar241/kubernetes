@@ -13,6 +13,8 @@ Declarative continuous deployment for Kubernetes
 - [ ] youtube - `applicationset argocd`
 - [ ] [youtube - Argo Proj - ArgoCon '21 - Argo CD Production Best Practices](https://www.youtube.com/watch?v=ESQLqjbM8h0)
 - [ ] [argo-cd -Generating Applications with ApplicationSet](https://argo-cd.readthedocs.io/en/stable/user-guide/application-set/)
+- [ ] [medium - How to create ArgoCD Applications Automatically using ApplicationSet? “Automation of GitOps”](https://amralaayassen.medium.com/how-to-create-argocd-applications-automatically-using-applicationset-automation-of-the-gitops-59455eaf4f72)
+- [ ] [github - AmrAlaaYassen/ArgoCD-ApplicationSet-Demo](https://github.com/AmrAlaaYassen/ArgoCD-ApplicationSet-Demo)
 - [ ] [argocd-applicationset - Git Generator](https://argocd-applicationset.readthedocs.io/en/stable/Generators-Git/)
 - [ ] [argo-cd - Git Generator](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/Generators-Git/)
 - [ ] [argo-cd - Helm](https://argo-cd.readthedocs.io/en/stable/user-guide/helm/)
