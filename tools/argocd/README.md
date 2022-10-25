@@ -5,6 +5,12 @@
 
 Declarative continuous deployment for Kubernetes
 
+## TODO
+---
+- [ ] Research production level folder structure
+- [ ] Move to separate directory
+- [ ] Try kustomize and other k8s tools
+
 ## Resources
 ---
 - [ ] [github - argoproj/argo-cd](https://github.com/argoproj/argo-cd)
