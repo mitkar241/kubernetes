@@ -15,6 +15,7 @@ Declarative continuous deployment for Kubernetes
 ---
 - [ ] [github - argoproj/argo-cd](https://github.com/argoproj/argo-cd)
 - [ ] [argo-cd.readthedocs.io](https://argo-cd.readthedocs.io/en/stable/)
+- [ ] [techtarget - Learn to use Kubernetes CRDs in this tutorial example](https://www.techtarget.com/searchitoperations/tip/Learn-to-use-Kubernetes-CRDs-in-this-tutorial-example)
 - [ ] [padok - Quick introduction to ArgoCD ApplicationSet](https://www.padok.fr/en/blog/introduction-argocd-applicationset)
 - [ ] [youtube - TechWorld with Nana - ArgoCD Tutorial for Beginners](https://www.youtube.com/watch?v=MeU5_k9ssrs)
 - [ ] [github - christianh814/gitops-examples](https://github.com/christianh814/gitops-examples)
