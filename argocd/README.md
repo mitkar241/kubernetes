@@ -17,6 +17,7 @@ Declarative continuous deployment for Kubernetes
 - [ ] [argo-cd.readthedocs.io](https://argo-cd.readthedocs.io/en/stable/)
 - [ ] [padok - Quick introduction to ArgoCD ApplicationSet](https://www.padok.fr/en/blog/introduction-argocd-applicationset)
 - [ ] [youtube - TechWorld with Nana - ArgoCD Tutorial for Beginners](https://www.youtube.com/watch?v=MeU5_k9ssrs)
+- [ ] [github - christianh814/gitops-examples](https://github.com/christianh814/gitops-examples)
 - [ ] youtube - `applicationset argocd`
 - [ ] [youtube - Argo Proj - ArgoCon '21 - Argo CD Production Best Practices](https://www.youtube.com/watch?v=ESQLqjbM8h0)
 - [ ] [argo-cd -Generating Applications with ApplicationSet](https://argo-cd.readthedocs.io/en/stable/user-guide/application-set/)
