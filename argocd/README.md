@@ -36,6 +36,9 @@ Declarative continuous deployment for Kubernetes
 - [ ] [opensource - Automatically create multiple applications in Argo CD](https://opensource.com/article/21/7/automating-argo-cd)
 - [ ] [suedbroecker - How to deploy an application with argo cd using a helm repository](https://suedbroecker.net/2022/07/22/how-to-deploy-an-application-with-argo-cd-using-a-helm-repository/)
 - [ ] [stackoverflow - Templates and Values in different repos via ArgoCD](https://stackoverflow.com/questions/73023423/templates-and-values-in-different-repos-via-argocd)
+- [ ] *argocd production best practices*
+  - [ ] [argo-cd - Best Practices](https://argo-cd.readthedocs.io/en/stable/user-guide/best_practices/)
+  - [ ] [codefresh - Argo CD Best Practices](https://codefresh.io/blog/argo-cd-best-practices/)
 
 ## Description
 ---
