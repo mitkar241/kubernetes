@@ -6,7 +6,6 @@ Production-Grade Container Scheduling and Management
 
 ## Repo Structure
 ---
-Need to update this tree view
 ```
 .
 ├── docs
