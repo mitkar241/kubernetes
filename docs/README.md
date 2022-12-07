@@ -10,6 +10,7 @@
 - [ ] [Certified Kubernetes Application Developer (CKAD) - kodekloud](https://kodekloud.com/courses/certified-kubernetes-application-developer-ckad/)
 - [ ] [CKA Certification Course – Certified Kubernetes Administrator - kodekloud](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)
 - [ ] [Certified Kubernetes Security Specialist (CKS) - kodekloud](https://kodekloud.com/courses/certified-kubernetes-security-specialist-cks/)
+- [ ] [alta3 - Certified Kubernetes Application Developer - CKAD](https://alta3.com/overview-kubernetes-ckad)
 
 ### Resources
 ---
